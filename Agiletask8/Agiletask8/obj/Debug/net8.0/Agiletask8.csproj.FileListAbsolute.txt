@@ -1,0 +1,14 @@
+C:\Users\hp\Desktop\Agiletask8\Agiletask8\Agiletask8\obj\Debug\net8.0\Agiletask8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\Desktop\Agiletask8\Agiletask8\Agiletask8\obj\Debug\net8.0\Agiletask8.AssemblyInfoInputs.cache
+C:\Users\hp\Desktop\Agiletask8\Agiletask8\Agiletask8\obj\Debug\net8.0\Agiletask8.AssemblyInfo.cs
+C:\Users\hp\Desktop\Agiletask8\Agiletask8\Agiletask8\obj\Debug\net8.0\Agiletask8.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Agiletask8\Agiletask8\Agiletask8\bin\Debug\net8.0\Agiletask8.exe
+C:\Users\hp\Desktop\Agiletask8\Agiletask8\Agiletask8\bin\Debug\net8.0\Agiletask8.deps.json
+C:\Users\hp\Desktop\Agiletask8\Agiletask8\Agiletask8\bin\Debug\net8.0\Agiletask8.runtimeconfig.json
+C:\Users\hp\Desktop\Agiletask8\Agiletask8\Agiletask8\bin\Debug\net8.0\Agiletask8.dll
+C:\Users\hp\Desktop\Agiletask8\Agiletask8\Agiletask8\bin\Debug\net8.0\Agiletask8.pdb
+C:\Users\hp\Desktop\Agiletask8\Agiletask8\Agiletask8\obj\Debug\net8.0\Agiletask8.dll
+C:\Users\hp\Desktop\Agiletask8\Agiletask8\Agiletask8\obj\Debug\net8.0\refint\Agiletask8.dll
+C:\Users\hp\Desktop\Agiletask8\Agiletask8\Agiletask8\obj\Debug\net8.0\Agiletask8.pdb
+C:\Users\hp\Desktop\Agiletask8\Agiletask8\Agiletask8\obj\Debug\net8.0\Agiletask8.genruntimeconfig.cache
+C:\Users\hp\Desktop\Agiletask8\Agiletask8\Agiletask8\obj\Debug\net8.0\ref\Agiletask8.dll
